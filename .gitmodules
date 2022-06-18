@@ -1,3 +1,6 @@
 [submodule "key_board"]
 	path = key_board
 	url = git@github.com:Tianming72/key_board.git
+[submodule "power_board"]
+	path = power_board
+	url = git@github.com:Tianming72/power_board.git
